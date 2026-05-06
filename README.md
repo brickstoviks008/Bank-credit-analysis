@@ -1,5 +1,13 @@
 # 💳 Credit Risk Modeling Project
 
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green)
+
+
 ---
 
 ## 🚀 Project Overview
